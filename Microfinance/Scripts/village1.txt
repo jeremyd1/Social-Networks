@@ -1,0 +1,8 @@
+Village 1 Analysis
+
+INDIVIDUAL TEMPLE DATA
+Total # of people: 843
+Average Degree: 8.882
+Max Degree: 24
+Min Degree: 0
+Clustering Coefficient: 0.978213
