@@ -1,8 +1,18 @@
 Village 1 Analysis
 
-INDIVIDUAL TEMPLE DATA
+
+
+
+
+
+
+
+INDIVIDUAL TEMPLE DATA - who goes with whom to the temple? 
 Total # of people: 843
 Average Degree: 8.882
 Max Degree: 24
 Min Degree: 0
 Clustering Coefficient: 0.978213
+Assortativity Coefficient (Degrees): 0.9749
+
+

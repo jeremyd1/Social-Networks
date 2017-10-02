@@ -57,5 +57,6 @@ min_degree <- min(graph$frequency) # 0
 # Clustering Coefficient
 transitivity(templeIN_1.graph) # 0.978213
 
-
+# Assortativity Coefficient 
+assortativity(templeIN_1.graph, types1 = V(templeIN_1.graph)) # 0.9936472
 
