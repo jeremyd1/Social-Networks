@@ -1,18 +1,131 @@
 Village 1 Analysis
+Total # of people: 843 (length of keys vector)
 
+12 Networks
 
+1. INDIVIDUAL BORROW MONEY FROM DATA - how many people a person borrows money from?
 
-
-
-
-
-
-INDIVIDUAL TEMPLE DATA - who goes with whom to the temple? 
-Total # of people: 843
-Average Degree: 8.882
-Max Degree: 24
+Average Degree: 5.0984
+Max Degree: 19
 Min Degree: 0
+Average Path Length: 6.594633
+Clustering Coefficient: 0.724608
+Assortativity Coefficient: 0.6389592
+
+
+2. INDIVIDUAL GIVE ADVICE TO DATA - how many people a person gives advice to?
+
+Average Degree: 4.768683
+Max Degree: 17
+Min Degree: 0
+Average Path Length: 7.914098
+Clustering Coefficient: 0.8351705
+Assortativity Coefficient (Degrees): 0.7897783
+
+
+
+3. INDIVIDUAL HELP WITH DECISION DATA - how many people a person asks for help with a decision
+
+Average Degree: 4.900356
+Max Degree: 33
+Min Degree: 0
+Average Path Length: 6.449351
+Clustering Coefficient: 0.7515152
+Assortativity Coefficient: 0.3640669
+
+
+
+4. INDIVIDUAL BORROW RICE OR KEROSENE FROM DATA - how many people a person borrows rice of kerosense from
+
+Average Degree: 5.264531
+Max Degree: 14
+Min Degree: 0
+Average Path Length: 6.70982
+Clustering Coefficient: 0.7006668
+Assortativity Coefficient: 0.6463334
+
+
+
+5. INDIVIDUAL LEND RICE OR KEROSENE TO DATA - how many people a person lends rice or kerosene to
+
+Average Degree: 5.250297
+Max Degree: 15
+Min Degree: 0
+Average Path Length: 6.528529
+Clustering Coefficient: 0.701464
+Assortativity Coefficient: 0.6435103
+
+
+
+6. INDIVIDUAL LEND MONEY TO DATA - how many people a person lends money to
+
+Average Degree: 5.041518
+Max Degree: 15
+Min Degree: 0
+Average Path Length: 7.129963
+Clustering Coefficient: 0.7400182
+Assortativity Coefficient: 0.719585
+
+
+
+7. INDIVIDUAL OBTAIN MEDICAL ADVICE FROM DATA - how many people a person gets medical advice from
+
+Average Degree: 4.849348
+Max Degree: 13
+Min Degree: 0
+Average Path Length: 7.242829
+Clustering Coefficient: 0.811899
+Assortativity Coefficient: 0.79286
+
+
+
+8. INDIVIDUAL ENGAGE SOCIALLY WITH DATA - how many people a person engages with socially
+
+Average Degree: 5.447212
+Max Degree: 19
+Min Degree: 0
+Average Path Length: 5.660073
+Clustering Coefficient: 0.6131143
+Assortativity Coefficient: 0.5441351
+
+
+9. INDIVIDUAL RELATED TO DATA - how many people a person is related to
+
+Average Degree: 5.42586
+Max Degree: 18
+Min Degree: 0
+Average Path Length: 6.300985
+Clustering Coefficient: 0.6725716
+Assortativity Coefficient: 0.6065849
+
+
+10. INDIVIDUAL TEMPLE DATA - how many people does a person go to the temple with?
+
+Average Degree: 4.441281
+Max Degree: 12
+Min Degree: 0
+Average Path Length: 2.140599
 Clustering Coefficient: 0.978213
 Assortativity Coefficient (Degrees): 0.9749
 
+
+
+11. INDIVIDUAL INVITE TO ONE'S HOME DATA - how many people does a person invite home
+
+Average Degree: 5.256228
+Max Degree: 16
+Min Degree: 0
+Average Path Length: 6.043251
+Clustering Coefficient: 0.6806118
+Assortativity Coefficient: 0.6680771
+
+
+12. INDIVIDUAL VISIT ANOTHER'S HOME DATA - how many people does a person go to visit in their homes
+
+Average Degree: 5.341637
+Max Degree: 18
+Min Degree: 0
+Average Path Length: 5.843271
+Clustering Coefficient: 0.6498693
+Assortativity Coefficient: 0.6338669
 

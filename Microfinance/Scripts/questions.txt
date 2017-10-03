@@ -1,0 +1,9 @@
+Questions
+
+How do individual connections stack up against Household connections? Are a lot of the people someone interacts with just in their own household?
+
+For each characteristic, are people interacting with the same people or different people (homophyly)
+
+How connected is this village (NEED TO FIND A METRIC FOR MEASURING THIS)? Do people only interact with, on average, 5 others in an 843 person village? 
+
+How do these charactersitics compare across villages? Do some villages have villlagers who are more social or are all villages pretty disconnected? 
